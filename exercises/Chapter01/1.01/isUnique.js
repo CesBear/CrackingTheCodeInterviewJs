@@ -3,7 +3,7 @@
  * all unique characters. What if you cannot use additional data structures? *
  *
  */
-const uniqueChars =(string) => {
+const uniqueChars = (string) => {
 
     let length = string.length;
 
