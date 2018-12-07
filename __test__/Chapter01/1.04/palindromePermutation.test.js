@@ -13,6 +13,11 @@ test('checking palindrome Permutation', () => {
     expect(palimPerm('aabbc')).toBe(true);
 });
 
-test('checking palindrome Permutation', () => {
+test('One word 4 chars', () => {
     expect(palimPerm('aabc')).toBe(false);
+});
+
+
+test('Empty string', () => {
+    expect(palimPerm('')).toBe(true);
 });
