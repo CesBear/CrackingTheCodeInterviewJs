@@ -10,7 +10,7 @@ test('checking palindrome Permutation', () => {
 });
 
 test('checking palindrome Permutation', () => {
-    expect(palimPerm('aabbc')).toBe(true);
+    expect(palimPerm(' rac ecar rara')).toBe(true);
 });
 
 test('One word 4 chars', () => {
