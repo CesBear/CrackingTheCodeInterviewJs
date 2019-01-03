@@ -1,7 +1,7 @@
 # Cracking the Code Interview JS
 
 
-This project is to resolve all or most of the problems if possible with Javascript.
+This project is to resolve all or most of the problems if possible with Javascript from the book "Craking the Code interview".
 For testing I am using Jest.
 
 
