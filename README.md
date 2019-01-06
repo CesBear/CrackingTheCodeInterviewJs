@@ -10,9 +10,10 @@ surely there will be a better way to solve the problem.
 
 
 
-
+This is still under progress
 
 
 Thanks!
 
-Made with love by @CesBear
+Made with love by:
+@CesBear
