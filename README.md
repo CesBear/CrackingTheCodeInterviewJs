@@ -13,7 +13,7 @@ surely there will be a better way to solve the problem.
 This is still under progress
 
 
-Thanks!
+Thanks for checking!
 
 Made with love by:
 @CesBear
